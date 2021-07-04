@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,database,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,database,windows,macos,linux
 
+config.ts
+
 ### Database ###
 *.accdb
 *.db
