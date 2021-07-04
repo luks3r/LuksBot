@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "ES2021",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./",
+
+    /* Strict Type-Checking Options */
+    "strict": true,
+
+    /* Module Resolution Options */
+    "esModuleInterop": true,
+
+    /* Experimental Options */
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+
+    /* Advanced Options */
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  }
+}
